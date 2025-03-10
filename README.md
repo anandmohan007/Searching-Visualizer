@@ -1,1 +1,1 @@
-# Searching-Visualizer
+# Searching-Visulizer
